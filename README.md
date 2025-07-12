@@ -2,8 +2,6 @@
 
 A full-stack chat application built with the **MERN** stack, featuring real-time messaging, authentication, and a modern UI.
 
----
-
 ## 🔧 Features
 
 * 🌐 **Tech Stack**: MongoDB, Express, React, Node.js
@@ -15,8 +13,6 @@ A full-stack chat application built with the **MERN** stack, featuring real-time
 * ⚠️ **Error Handling**: Implemented on both client and server sides
 * 🚀 **Deployment**: Hosted on **Render**
 * ☁️ **Media Uploads**: Integrated with Cloudinary
-
----
 
 ## 📁 Environment Configuration
 
@@ -34,15 +30,11 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 NODE_ENV=development
 ```
 
----
-
 ## 🏗️ Build the App
 
 ```bash
 npm run build
 ```
-
----
 
 ## ▶️ Start the App
 
