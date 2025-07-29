@@ -41,3 +41,13 @@ npm run build
 ```bash
 npm start
 ```
+
+## 📊 Architecture & Flow
+
+![Architecture](/assets/architecture.png)
+
+Architecture
+
+![Flowchart](/assets/flowchart.png)
+
+Flowchart
